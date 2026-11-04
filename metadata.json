@@ -1,0 +1,6 @@
+{
+  "name": "VoltMoto - Motos Elétricas Autopropelidas",
+  "description": "Showroom de motos elétricas autopropelidas de 1000W e até 32 km/h. 100% liberadas de CNH, sem emplacamento e sem IPVA conforme Resolução CONTRAN 996.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
